@@ -33,7 +33,6 @@
     "README.md"
   ],
   "peerDependencies": {
-    "@remix-run/server-runtime": "^1.5.1",
     "remix-auth": "^3.2.2"
   },
   "dependencies": {
@@ -46,7 +45,7 @@
     "@babel/preset-typescript": "^7.13.0",
     "@remix-run/node": "^1.5.1",
     "@remix-run/react": "^1.5.1",
-    "@remix-run/server-runtime": "^1.5.1",
+    "@remix-run/server-runtime": "^2.8.1",
     "@types/jest": "^26.0.23",
     "@typescript-eslint/eslint-plugin": "^5.27.0",
     "@typescript-eslint/parser": "^5.27.0",
